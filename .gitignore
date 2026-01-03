@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Odoo
+*.pyc
+*.pyo
+.odoo_history
+
+# Docker volumes
+odoo-db-data/
+odoo-web-data/
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# Database backups
+*.dump
+*.sql

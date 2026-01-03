@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_animal,tp.animal,model_tp_animal,,1,1,1,1
+access_vaccin,tp.vaccin,model_tp_vaccin,,1,1,1,1

@@ -1,0 +1,14 @@
+<odoo>
+    <!-- Action pour Vaccins -->
+    <record id="action_vaccins" model="ir.actions.act_window">
+        <field name="name">Vaccins</field>
+        <field name="res_model">tp.vaccin</field>
+        <field name="view_mode">tree,form</field>
+    </record>
+
+    <!-- Menu Vaccins -->
+    <menuitem id="menu_vaccins" 
+              name="Vaccins"
+              parent="menu_animaux_root"
+              action="action_vaccins"/>
+</odoo>
