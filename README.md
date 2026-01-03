@@ -13,7 +13,7 @@ Module Odoo développé dans le cadre du cours ERP permettant la gestion complè
 - **Cours**: ERP - Odoo
 - **Projet**: LAB Création module Odoo
 - **Année**: 2025-2026
-- **Auteur**: [Votre Nom]
+- **Auteur**: [AMINE ALLAMI]
 
 ## 🎯 Fonctionnalités
 
